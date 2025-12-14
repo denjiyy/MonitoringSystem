@@ -126,7 +126,7 @@ Here are some reliable public IPs you can use to test the monitoring system:
 | Cloudflare DNS | 1.1.1.1 | Ping, DNS, HTTP | Fast, reliable DNS service |
 | Google DNS | 8.8.8.8 | Ping, DNS | Google's public DNS |
 | Quad9 DNS | 9.9.9.9 | Ping, DNS | Privacy-focused DNS |
-| Example.com | 93.184.216.34 | Ping, HTTP | IANA's example domain |
+| Google.com | 142.250.185.78 | Ping, HTTP | Google's domain |
 
 ### Quick Test Setup
 
