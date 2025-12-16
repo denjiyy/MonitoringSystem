@@ -1,2 +1,8 @@
-dnspython>=2.0.0
-requests>=2.25.0
+# requirements.txt
+# Core dependencies
+dnspython>=2.6.0,<3.0.0
+requests>=2.31.0,<3.0.0
+
+# Optional: Windows desktop notifications
+# Install with: pip install -r requirements.txt -r requirements-windows.txt
+# win10toast>=0.9
