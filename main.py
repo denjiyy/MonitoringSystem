@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 
 import tkinter as tk
-from tkinter import ttk, scrolledtext, messagebox, simpledialog
+from tkinter import ttk, scrolledtext, messagebox
 import threading
 import time
-import socket
 import subprocess
 import platform
 import smtplib
@@ -20,7 +19,7 @@ from collections import deque
 import logging
 import ipaddress
 import re
-from typing import Dict, List, Optional, Tuple
+from typing import List, Optional
 
 logging.basicConfig(
     level=logging.INFO,
